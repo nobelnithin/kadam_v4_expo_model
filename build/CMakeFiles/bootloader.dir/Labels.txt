@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/CMakeFiles/bootloader
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/CMakeFiles/bootloader.rule
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/CMakeFiles/bootloader-complete.rule
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Biostim/Kadam_v4_firmware/kadam_v4_expo_model/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
